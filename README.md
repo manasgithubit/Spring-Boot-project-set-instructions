@@ -5,6 +5,16 @@ Overview
 Spring Boot application designed for monitoring patient heart rate data in a healthcare environment. 
 The system allows healthcare providers to track and manage patient heart rate information, store data securely, and view relevant details through a RESTful API.
 
+#Technology Stack:
+------------------
+ . java: 17 
+ . Backend: Spring Boot (Java) 
+ . Database: MySQL(Depending on the stack) 
+ . Validation: Hibernate Validator (for Spring Boot) 
+ . Build Tool: Maven 
+ . Version Control: Git (hosted on GitHub) 
+ . Deployment: optional for deployment phase
+
 #Project Description:
 ---------------------
 Spring Boot application provides a RESTful API to manage patients and their heart rate details.
